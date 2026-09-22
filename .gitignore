@@ -1,0 +1,5 @@
+*.csv
+!github_dataset.csv
+*.zip
+*.pkl
+__pycache__/
